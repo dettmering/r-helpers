@@ -1,4 +1,1 @@
-r-helpers
-=========
-
-Helper functions for R
+DEPRECATED. Use rhelpers package from dettmering/rhelpers
